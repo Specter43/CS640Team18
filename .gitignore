@@ -1,4 +1,6 @@
 autocast/
 autocast.tar.gz
 autocast_questions.json
-*.txt
+openai_key.txt
+submission/
+submission/predictions.pkl
